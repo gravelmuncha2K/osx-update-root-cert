@@ -6,7 +6,7 @@
 - Lanzar los siguientes comandos
 
 ```shell
-cd ~/Downloads/osx-update-root-certs/
+cd ~/Downloads/osx-update-root-certs-0.1.0-alpha/
 sudo bash update-root-certs.sh
 ```
 
